@@ -1,4 +1,4 @@
-# DSA - QUESTION - JAVA
+# DSA - QUESTIONS - JAVA
 
 - It is the collection of questions that i solved for my pratice of DATA STRUCTURES and ALGORITHMS for Java.
 

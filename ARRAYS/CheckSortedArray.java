@@ -1,7 +1,7 @@
 
 
 public class CheckSortedArray {
-  ublic static int isSorted(int n, int []a) {
+  public static int isSorted(int n, int []a) {
     int i = 0;
     int j=n-1;
 

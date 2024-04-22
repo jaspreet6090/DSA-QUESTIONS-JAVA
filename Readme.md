@@ -11,4 +11,4 @@ Welcome to my repository of practice questions for Data Structures and Algorithm
 Feel free to explore, use for your practice, and share your feedback. Happy coding! 😊
 
 ## Author
-Jaspreet Singh
+Jaspreet Singh.
